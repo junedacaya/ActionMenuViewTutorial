@@ -1,0 +1,28 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_edit"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_edit"
+        android:title="Edit"/>
+    <item
+        android:id="@+id/action_copy"
+        android:orderInCategory="150"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_copy"
+        android:title="Copy"/>
+    <item
+        android:id="@+id/action_move"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_move"
+        android:title="Move"/>
+    <item
+        android:id="@+id/action_details"
+        android:orderInCategory="110"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_info"
+        android:title="Move"/>
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActionMenuViewTutorial</string>
+    <string name="message1">An item was clicked</string>
+</resources>
